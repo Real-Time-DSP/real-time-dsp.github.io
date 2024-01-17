@@ -8,4 +8,4 @@ Maintained by [Dan Jacobellis](https://danjacobellis.net)
 
 ### [Handouts](https://realtimedsp.net/handouts/)
 
-### [Lectures](https://realtimedsp.net/handouts/)
+### [Lectures](https://realtimedsp.net/lectures/)
